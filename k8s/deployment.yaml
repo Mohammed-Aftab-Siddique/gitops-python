@@ -32,6 +32,8 @@ spec:
 
         image: lordsam07/gitops-python:latest
 
+        imagePullPolicy: Always
+
         ports:
 
         - containerPort: 5000
