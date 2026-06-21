@@ -35,4 +35,4 @@ jobs:
 
         push: true
 
-        tags: YOUR_USERNAME/hello-gitops:latest
+        tags: lordsam07/gitops-python:latest
